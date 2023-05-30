@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 2.0283031 3.5634453"
+   viewBox="0 0 2.0283032 3.5634453"
    width="107.33105mm"
    height="188.56564mm"
    version="1.1"
@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1163"
-     inkscape:window-height="790"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview70"
      showgrid="false"
      units="mm"
@@ -46,12 +46,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.67666667"
+     inkscape:zoom="0.95695118"
      inkscape:cx="202.42654"
-     inkscape:cy="386.33834"
-     inkscape:window-x="325"
-     inkscape:window-y="1141"
-     inkscape:window-maximized="0"
+     inkscape:cy="386.33833"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg68" />
   <title
      id="title62">Distinctive emblem for the Protection of Cultural Property</title>
@@ -62,11 +62,6 @@
      style="fill:#ffffff"
      x="0.012132697"
      y="0.27953649" />
-  <path
-     d="M 0.01415169,0.27953653 H 2.0141517 L 0.01415169,2.2795365 1.0141517,3.2795366 l 1,-1.0000001 z"
-     id="path66"
-     style="fill:#002266"
-     inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.18897638px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.005"
@@ -89,4 +84,18 @@
        x="-0.018989911"
        y="3.5596988"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.26456693px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.005">SAPERE·AUDE</tspan></text>
+  <g
+     id="g4629"
+     transform="translate(0.002019)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#002266"
+       id="path66"
+       d="m 0.0121327,0.27953653 h 2 l -2,1.99999997 1,1.0000001 1,-1.0000001 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path117"
+       d="M 0.0121327,0.27953649 V 2.2795365 l 1.002019,1.0000001 0.997981,-1.0000001 V 0.27953649 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.01889764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>
