@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 2.0283032 3.5634453"
-   width="107.33105mm"
-   height="188.56564mm"
+   viewBox="0 0 2.1038937 3.6390359"
+   width="111.33105mm"
+   height="192.56564mm"
    version="1.1"
    id="svg68"
    sodipodi:docname="DenkMal.svg"
@@ -42,13 +42,13 @@
      id="namedview70"
      showgrid="false"
      units="mm"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
      inkscape:zoom="0.95695118"
-     inkscape:cx="202.42654"
-     inkscape:cy="386.33833"
+     inkscape:cx="209.98559"
+     inkscape:cy="393.89738"
      inkscape:window-x="0"
      inkscape:window-y="1080"
      inkscape:window-maximized="1"
@@ -60,33 +60,33 @@
      height="2"
      id="rect64"
      style="fill:#ffffff"
-     x="0.012132697"
-     y="0.27953649" />
+     x="0.049927972"
+     y="0.31733176" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.18897638px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.005"
-     x="0.11555425"
-     y="0.22042322"
+     x="0.15334952"
+     y="0.2582185"
      id="text78"><tspan
        sodipodi:role="line"
        id="tspan76"
-       x="0.11555425"
-       y="0.22042322"
+       x="0.15334952"
+       y="0.2582185"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.3023622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.005">DENK MAL</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.18897638px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.005"
-     x="-0.018989911"
-     y="3.5596988"
+     x="0.018805364"
+     y="3.5974941"
      id="text78-3"><tspan
        sodipodi:role="line"
        id="tspan76-1"
-       x="-0.018989911"
-       y="3.5596988"
+       x="0.018805364"
+       y="3.5974941"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.26456693px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.005">SAPERE·AUDE</tspan></text>
   <g
      id="g4629"
-     transform="translate(0.002019)">
+     transform="translate(0.03981427,0.03779529)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#002266"
